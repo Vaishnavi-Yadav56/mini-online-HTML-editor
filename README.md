@@ -1,6 +1,5 @@
 # miniB-HTML-editor
-Yet another fully featured WYSIWIG HTML editor...
-by ColeNikol
+My miniB-HTML-editor website link - nonconfirmed.com/editor/
 
 A modern, feature-rich WYSIWYG HTML online editor that creates complete, standalone HTML documents. Built with Font Awesome, Tailwind CSS and vanilla JavaScript for maximum compatibility and performance.
 
@@ -252,3 +251,4 @@ Feel free to submit issues, feature requests, or pull requests to improve the ed
 ---
 
 **Start creating beautiful HTML content with your new professional editor!** 🚀 
+
